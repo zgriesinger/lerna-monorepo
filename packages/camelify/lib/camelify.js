@@ -10,5 +10,5 @@ function camelify() {
     console.log('This is a Single Humped Camel 🐪');
     console.log('This is camelCase Single Humped Camel', camelCase('SingleHumpedCamel'));
     console.log('This is a Double Humped Camel 🐫');
-    console.log('This is camelCase Double Humped Camel', camelCase('DoubleHumpedCamel'));
+    console.log('This is camelCase Double Humped Camel', _.camelCase('DoubleHumpedCamel'));
 }
