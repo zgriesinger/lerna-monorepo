@@ -5,7 +5,7 @@
     "test": "jest"
   },
   "devDependencies": {
-    "lerna": "^3.22.1",
+    "lerna": "3.22.1",
     "jest": "26.2.2"
   }
 }
