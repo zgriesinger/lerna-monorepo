@@ -24,6 +24,6 @@
     "url": "https://github.com/zgriesinger/lerna-monorepo/issues"
   },
   "dependencies": {
-    "lodash": "4.17.18"
+    "lodash": "4.17.19"
   }
 }
