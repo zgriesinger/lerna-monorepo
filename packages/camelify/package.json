@@ -26,6 +26,6 @@
   },
   "dependencies": {
     "@zgriesinger/utils": "1.0.0",
-    "lodash": "4.17.18"
+    "lodash": "4.17.21"
   }
 }
